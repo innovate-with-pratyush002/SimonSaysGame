@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.game{
+    display: flex;
+    justify-content:center;
+}
+body{
+    background-color: rgb(76, 69, 69);
+}
+.bt{
+    height: 8rem;
+    width: 8rem;
+    border: 0.5rem solid black;
+    border-radius:2.5rem;
+    margin: 1rem;
+}
+.box1{
+    background-color: rgb(191, 38, 115);
+}
+.box2{
+    background-color: rgb(220, 146, 8);
+}
+.box3{
+    background-color: rgb(30, 147, 143);
+}
+.box4{
+    background-color: rgb(36, 137, 201);
+}
+.flash{
+    background-color: white;
+}
