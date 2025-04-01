@@ -57,10 +57,10 @@ function checkpoint(i){
             reset();
         }      
 }
-
 function reset(){
     gameSeq=[];
     userSeq=[];
     start=false;
     level=0;
 }
+

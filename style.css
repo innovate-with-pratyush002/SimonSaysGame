@@ -33,3 +33,6 @@ body{
 .flash{
     background-color: white;
 }
+#score{
+    text-align: center;
+}
